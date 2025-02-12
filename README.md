@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Khaled an Embedded SW Engineer @ EVFlash. <br>I'm interested in AC chargers and Automotive industry
+I'm Khaled an Embedded SW Engineer. <br>I'm interested in AC chargers and Automotive industry
 
 
 ## 🌐 Socials:
